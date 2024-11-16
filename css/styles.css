@@ -11018,6 +11018,7 @@ section.resume-section {
 section.resume-section .resume-section-content {
   width: 100%;
   text-align: center;
+  margin-top:30px;
 }
 
 @media (min-width: 768px) {
@@ -11035,6 +11036,7 @@ section.resume-section .resume-section-content {
   }
   section.resume-section .resume-section-content {
   text-align: unset;
+  margin-top: 0;
    }
    section.resume-section .resume-section-content p{
     text-align: justify;
